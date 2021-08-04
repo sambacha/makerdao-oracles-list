@@ -1,0 +1,20 @@
+{
+  "name": "makerdao-oracles-list",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambacha/makerdao-oracles-list.git"
+  },
+  "keywords": ["makerdao", "oracles", "price oracles", "ethereum", "Defi"],
+  "author": "sam bacha <sam@manifoldfinance.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sambacha/makerdao-oracles-list/issues"
+  },
+  "homepage": "https://github.com/sambacha/makerdao-oracles-list#readme"
+}
